@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Primes</string>
+    <string-array name="order">
+        <item>Lower</item>
+        <item>Higher</item>
+    </string-array>
+    <string name="thermometer">Thermometer</string>
+    <string name="winter">Winter</string>
+    <string name="summer">Summer</string>
+    <string name="season">Season:</string>
+    <string name="celsius">Celsius</string>
+    <string name="fahrenheit">Fahrenheit</string>
+    <string name="kelvin">Kelvin</string>
+    <string name="tempType">Type temperature:</string>
+    <string name="temperature">Temperature:</string>
+    <string name="humidity">Humidity:</string>
+
+</resources>

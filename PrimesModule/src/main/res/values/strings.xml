@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Primes</string>
+    <string-array name="order">
+        <item>Lower</item>
+        <item>Higher</item>
+    </string-array>
+</resources>
